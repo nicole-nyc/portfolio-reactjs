@@ -1,0 +1,50 @@
+/*ContentArea.js*/
+.each-component {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+.fake-nav-btn {
+    margin: 10px;
+}
+.my-header {
+    text-align: center;
+}
+/*end ContentArea.js*/
+
+
+/*Home.js*/
+
+
+/*end Home.js*/
+
+
+
+/*Resume.js*/
+
+/*end Resume.js*/
+
+
+
+/*About.js*/
+
+/*end About.js*/
+
+
+
+/*Contact.js*/
+
+/*end Contact.js*/
+
+
+
+
+/*Misc*/
+.no-bullets {
+    list-style: none;
+}
+/*end Misc*/
+
+.col-sm-2 {
+    padding: 60px;
+}
